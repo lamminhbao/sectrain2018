@@ -4,6 +4,7 @@
 #include <stdlib.h>
 
 void abcxyz() {
+	printf("You win level 03.\n");
 	system("/bin/sh");
 }
 
